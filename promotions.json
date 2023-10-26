@@ -1,10 +1,10 @@
 {
-  "key":"pm-wedevsbirthday2023",
-  "start_date":"2023-03-16 08:00:01 EST",
-  "end_date":"2023-03-31 07:00:00 EST",
-  "title":"A Decade of Achievements.",
+  "key":"halloween2023",
+  "start_date":"2023-10-24 08:00:01 EST",
+  "end_date":"2023-11-02 12:01:00 EST",
+  "title":"October Chills, Discount that Thrills",
   "description":"",
   "content":"Get up to <strong>40% off</strong> on WP Project Manager Pro Plan!",
-  "action_url":"https://wedevs.com/wp-project-manager-pro/pricing/?utm_campaign=weDevs_10_anniversary&utm_medium=wpdashboard&utm_source=banner",
-  "action_title":"Check The Deal"
+  "action_url":"https://wedevs.com/wp-project-manager-pro/pricing/?utm_campaign=Halloween2023&utm_medium=wpdashboard&utm_source=banner",
+  "action_title":"Claim Yours"
 }
