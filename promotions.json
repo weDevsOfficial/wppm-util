@@ -1,10 +1,10 @@
 {
-  "key": "WDVSBirthday25",
-  "start_date": "2025-03-18 9:00:00 EST",
-  "end_date": "2025-03-30 12:00:00 EST",
-  "title": "weDevs Anniversary Sale is LIVE  🎉",
+  "key": "SmartSavingWeek",
+  "start_date": "2025-07-24 9:00:00 EST",
+  "end_date": "2025-07-31 12:00:00 EST",
+  "title": "Gantt. Kanban. Time Tracker. Now at 35% Off!",
   "description":"",
-  "content":"Take Your Project Management to the Next Level – Get Up to 40% OFF!",
-  "action_url":"https://wedevs.com/wp-project-manager-pro/pricing/?utm_source=wpbanner&utm_medium=wpdashboard&utm_campaign=anniversary25_sale&utm_id=weAnniversary25Campaign",
-  "action_title":"Save Big"
+  "content": "Get WP Project Manager Pro to boost your team productivity - ends 31st July!",
+  "action_url": "https://wedevs.com/wp-project-manager-pro/pricing/?utm_source=wpdashboard&utm_medium=Notice&utm_campaign=Smart_Saving_Week",
+  "action_title": "Grab the Deal"
 }
